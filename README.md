@@ -5,11 +5,15 @@ This is a Python script to download YouTube videos for free, created as my first
 WAIT ✋️💀🤚, FOLLOW THESE STEPS BY HEART --- 
 
 1) Ensure you have installed Python and VS Code Studio.
-2) You need to install the patched and updated version of the pytube library using "pip install pytube.fix" in the terminal.
+2) You need to install the patched and updated version of the pytube library using "pip install pytubefix" in the terminal.
+3) Select the Python select interpreter (Ctrl+Shift+P).
+4) Choose Python 3.11.9 (Highly Recommended).
+
+AND YOU'RE GOOD TO GO...😎
 
 How to Use---
 
-Follow these steps to download your video:
+Follow these steps to download your video:-
 
  * Copy the Link: Go to YouTube and copy the URL of the video you want to download.
    
